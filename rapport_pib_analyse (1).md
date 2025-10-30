@@ -1,4 +1,3 @@
-# Rapport d'Analyse Approfondie du PIB
 #EZRAIDY SOULAIMANE G2 FINANCE
 ## Comparaison Internationale Multi-Pays
 
