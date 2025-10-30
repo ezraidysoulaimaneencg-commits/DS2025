@@ -587,3 +587,4 @@ matrice_corr = df_pib.iloc[:, :-1].corr()
 fig, ax = plt.subplots(figsize=(10, 8))
 
 # Gén
+![G1](distribution_valeurs.png)
