@@ -1,4 +1,5 @@
-#EZRAIDY SOULAIMANE G2 FINANCE
+#EZRAIDY SOULAIMANE G2 FINANCE ![WhatsApp Image 2025-10-30 à 11 32 45_acba03fc](https://github.com/user-attachments/assets/9efed43c-f7dc-4a37-b2fb-11875bf6d438)
+
 ## Comparaison Internationale Multi-Pays
 
 ---
